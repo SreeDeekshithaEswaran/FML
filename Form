@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <style>
-        #user-form{
+        #user_details{
             background-color: rgb(31, 164, 216);
             padding: 10px;
             margin: 10px;
         }
-        #user-entries{
+        #user_details{
             background-color: rgb(3, 87, 112);
             color:white;
         }
