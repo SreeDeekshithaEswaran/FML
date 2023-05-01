@@ -11,7 +11,7 @@
             padding: 10px;
             margin: 10px;
         }
-        #user_details{
+        #user_entry{
             background-color: rgb(3, 87, 112);
             color:white;
         }
